@@ -1,3 +1,3 @@
 # NeetKun MK-II
 
-Core Repository of NeetKun MK-II System
+Core Repository of the NeetKun MK-II System
